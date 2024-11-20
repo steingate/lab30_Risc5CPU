@@ -1,0 +1,387 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/File_ZJU/CompStr/lab30_Risc5CPU/sim/IF
+vadder_32bits
+Z0 VDg1SIo80bB@j0V0VzS_@n1
+r1
+!s85 0
+31
+!i10b 1
+!s100 1LR;3NLfWX:TRM>k3b_=j2
+Im5RCdUL<W1mWj@0oNOf4z2
+Z1 dD:/File_ZJU/CompStr/lab30_Risc5CPU/sim/top
+Z2 w1726559881
+Z3 8D:/File_ZJU/CompStr/lab30_Risc5CPU/src/adder_32bits.v
+Z4 FD:/File_ZJU/CompStr/lab30_Risc5CPU/src/adder_32bits.v
+Z5 L0 23
+Z6 OL;L;10.4;61
+Z7 !s108 1731245821.936000
+Z8 !s107 D:/File_ZJU/CompStr/lab30_Risc5CPU/src/adder_32bits.v|
+Z9 !s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/File_ZJU/CompStr/lab30_Risc5CPU/src/adder_32bits.v|
+!i113 0
+Z10 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+vadder_4bits
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 dVOLRa?F]JAlKO?JBaNgF3
+IOiNU7>czcccMXYLQSCSd40
+R1
+w1726560408
+8D:/File_ZJU/CompStr/lab30_Risc5CPU/src/adder_4bits.v
+FD:/File_ZJU/CompStr/lab30_Risc5CPU/src/adder_4bits.v
+R5
+R6
+!s108 1731245821.847000
+!s107 D:/File_ZJU/CompStr/lab30_Risc5CPU/src/adder_4bits.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/File_ZJU/CompStr/lab30_Risc5CPU/src/adder_4bits.v|
+!i113 0
+R10
+vALU
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 VEDom>d]@FnSO2V=kK:kJ0
+IC>J`lz4X4;N:NQPJMaERl0
+R1
+w1731219178
+8D:/File_ZJU/CompStr/lab30_Risc5CPU/src/ALU.v
+FD:/File_ZJU/CompStr/lab30_Risc5CPU/src/ALU.v
+L0 7
+R6
+!s108 1731245822.120000
+!s107 D:/File_ZJU/CompStr/lab30_Risc5CPU/src/ALU.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/File_ZJU/CompStr/lab30_Risc5CPU/src/ALU.v|
+!i113 0
+R10
+n@a@l@u
+vBranchTest
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 jeBH64lKjb=OHbLa_Qej21
+I`KUQH1dozg`DUAC1_RU4?0
+R1
+w1730680038
+8D:/File_ZJU/CompStr/lab30_Risc5CPU/src/BranchTest.v
+FD:/File_ZJU/CompStr/lab30_Risc5CPU/src/BranchTest.v
+L0 1
+R6
+!s108 1731245822.223000
+!s107 D:/File_ZJU/CompStr/lab30_Risc5CPU/src/BranchTest.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/File_ZJU/CompStr/lab30_Risc5CPU/src/BranchTest.v|
+!i113 0
+R10
+n@branch@test
+vconditional_adder_4bits
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 7jREnKO68CYQRCM_;RM[J3
+IUH6o?iIO[?AQZKz57VddJ1
+R1
+R2
+R3
+R4
+L0 40
+R6
+R7
+R8
+R9
+!i113 0
+R10
+vDataRAM
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 V?1WO5^TRE7S84^ObfgI70
+IYV6dQ=>K1Zz@If9FEW0D_3
+R1
+w1731226979
+8D:/File_ZJU/CompStr/lab30_Risc5CPU/src/DataRAM.v
+FD:/File_ZJU/CompStr/lab30_Risc5CPU/src/DataRAM.v
+L0 1
+R6
+!s108 1731245822.310000
+!s107 D:/File_ZJU/CompStr/lab30_Risc5CPU/src/DataRAM.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/File_ZJU/CompStr/lab30_Risc5CPU/src/DataRAM.v|
+!i113 0
+R10
+n@data@r@a@m
+vDecode
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 7Nn6BJ>:A6Y?;=4R;D@S@3
+I?=IcGz31C15fjPTU^HcW[1
+R1
+w1729471830
+8D:/File_ZJU/CompStr/lab30_Risc5CPU/src/Decode.v
+FD:/File_ZJU/CompStr/lab30_Risc5CPU/src/Decode.v
+L0 6
+R6
+!s108 1731245822.399000
+!s107 D:/File_ZJU/CompStr/lab30_Risc5CPU/src/Decode.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/File_ZJU/CompStr/lab30_Risc5CPU/src/Decode.v|
+!i113 0
+R10
+n@decode
+vEX
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 Xz=JhmJYQMcMGeT6XCCW[1
+IRG=9GcNghg`WjJIl<0Eog0
+R1
+w1731223789
+8D:/File_ZJU/CompStr/lab30_Risc5CPU/src/EX.v
+FD:/File_ZJU/CompStr/lab30_Risc5CPU/src/EX.v
+L0 6
+R6
+!s108 1731245822.489000
+!s107 D:/File_ZJU/CompStr/lab30_Risc5CPU/src/EX.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/File_ZJU/CompStr/lab30_Risc5CPU/src/EX.v|
+!i113 0
+R10
+n@e@x
+vEX_MEM
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 GfW24ImDo9fSmAjN=kHc32
+I[OaDNo3_V5@BBREm9^YdO2
+R1
+w1731242254
+8D:/File_ZJU/CompStr/lab30_Risc5CPU/src/EX_MEM.v
+FD:/File_ZJU/CompStr/lab30_Risc5CPU/src/EX_MEM.v
+L0 1
+R6
+!s108 1731245822.591000
+!s107 D:/File_ZJU/CompStr/lab30_Risc5CPU/src/EX_MEM.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/File_ZJU/CompStr/lab30_Risc5CPU/src/EX_MEM.v|
+!i113 0
+R10
+n@e@x_@m@e@m
+vHazardDetector
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 EIP9HB9m[UVgiM?DD]2Jo3
+I:0JFocZOFL8JodOQ_EaNW2
+R1
+w1729474332
+8D:/File_ZJU/CompStr/lab30_Risc5CPU/src/HazardDetector.v
+FD:/File_ZJU/CompStr/lab30_Risc5CPU/src/HazardDetector.v
+L0 1
+R6
+!s108 1731245822.682000
+!s107 D:/File_ZJU/CompStr/lab30_Risc5CPU/src/HazardDetector.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/File_ZJU/CompStr/lab30_Risc5CPU/src/HazardDetector.v|
+!i113 0
+R10
+n@hazard@detector
+vID
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 NYXAk[nAgzcG]a7RW3d<13
+IAk;^F`YA<f<1jlGR:`@bZ0
+R1
+w1730679987
+8D:/File_ZJU/CompStr/lab30_Risc5CPU/src/ID.v
+FD:/File_ZJU/CompStr/lab30_Risc5CPU/src/ID.v
+L0 6
+R6
+!s108 1731245822.771000
+!s107 D:/File_ZJU/CompStr/lab30_Risc5CPU/src/ID.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/File_ZJU/CompStr/lab30_Risc5CPU/src/ID.v|
+!i113 0
+R10
+n@i@d
+vID_EX
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 fAVB3MX?K_zbPZ_YFLhKk2
+I^=SX_J1@RCm_BMQXMefAB0
+R1
+w1731242096
+8D:/File_ZJU/CompStr/lab30_Risc5CPU/src/ID_EX.v
+FD:/File_ZJU/CompStr/lab30_Risc5CPU/src/ID_EX.v
+L0 1
+R6
+!s108 1731245822.860000
+!s107 D:/File_ZJU/CompStr/lab30_Risc5CPU/src/ID_EX.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/File_ZJU/CompStr/lab30_Risc5CPU/src/ID_EX.v|
+!i113 0
+R10
+n@i@d_@e@x
+vIF1
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 na6i4SNWEEjmP;jEgKzGY2
+I=88;?SkFYX8Y4;]Q5k=FX3
+R1
+w1731238482
+8D:/File_ZJU/CompStr/lab30_Risc5CPU/src/IF.v
+FD:/File_ZJU/CompStr/lab30_Risc5CPU/src/IF.v
+L0 6
+R6
+!s108 1731245822.960000
+!s107 D:/File_ZJU/CompStr/lab30_Risc5CPU/src/IF.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/File_ZJU/CompStr/lab30_Risc5CPU/src/IF.v|
+!i113 0
+R10
+n@i@f1
+vIF_ID
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 1^fe4FnObcF]Rl`VEa0V?3
+I9Q5:0[R=dH033C?jk7FCM1
+R1
+w1731241831
+8D:/File_ZJU/CompStr/lab30_Risc5CPU/src/IF_ID.v
+FD:/File_ZJU/CompStr/lab30_Risc5CPU/src/IF_ID.v
+L0 1
+R6
+!s108 1731245823.053000
+!s107 D:/File_ZJU/CompStr/lab30_Risc5CPU/src/IF_ID.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/File_ZJU/CompStr/lab30_Risc5CPU/src/IF_ID.v|
+!i113 0
+R10
+n@i@f_@i@d
+vInstructionROM
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 BWcnPGdXOkGW1NQn?^LK82
+ITn3@:NPknLIVBT_lRU@f>0
+R1
+w1695776680
+8D:/File_ZJU/CompStr/lab30_Risc5CPU/src/InstructionROM.v
+FD:/File_ZJU/CompStr/lab30_Risc5CPU/src/InstructionROM.v
+L0 19
+R6
+!s108 1731245823.141000
+!s107 D:/File_ZJU/CompStr/lab30_Risc5CPU/src/InstructionROM.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/File_ZJU/CompStr/lab30_Risc5CPU/src/InstructionROM.v|
+!i113 0
+R10
+n@instruction@r@o@m
+vMEM_WB
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 @<G8=Y<ic0kzUmL<f?@nQ0
+IE>SIb1<SJT>=kaV;IFMJR1
+R1
+w1731242711
+8D:/File_ZJU/CompStr/lab30_Risc5CPU/src/MEM_WB.v
+FD:/File_ZJU/CompStr/lab30_Risc5CPU/src/MEM_WB.v
+L0 1
+R6
+!s108 1731245823.237000
+!s107 D:/File_ZJU/CompStr/lab30_Risc5CPU/src/MEM_WB.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/File_ZJU/CompStr/lab30_Risc5CPU/src/MEM_WB.v|
+!i113 0
+R10
+n@m@e@m_@w@b
+vRegisters
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 NZEZE;XPZRcfi2;Mi0kW>2
+I`VaH7V[`i:?je2P0Vm70]0
+R1
+w1728696445
+8D:/File_ZJU/CompStr/lab30_Risc5CPU/src/Registers.v
+FD:/File_ZJU/CompStr/lab30_Risc5CPU/src/Registers.v
+L0 1
+R6
+!s108 1731245823.340000
+!s107 D:/File_ZJU/CompStr/lab30_Risc5CPU/src/Registers.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/File_ZJU/CompStr/lab30_Risc5CPU/src/Registers.v|
+!i113 0
+R10
+n@registers
+vRisc5CPU
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 Sni;^gB>53<@4>X9[ZYgY2
+I@7b1O?nV^7f@`:nIj7nYU1
+R1
+w1731244940
+8D:/File_ZJU/CompStr/lab30_Risc5CPU/src/Risc5CPU.v
+FD:/File_ZJU/CompStr/lab30_Risc5CPU/src/Risc5CPU.v
+L0 6
+R6
+!s108 1731245823.430000
+!s107 D:/File_ZJU/CompStr/lab30_Risc5CPU/src/Risc5CPU.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/File_ZJU/CompStr/lab30_Risc5CPU/src/Risc5CPU.v|
+!i113 0
+R10
+n@risc5@c@p@u
+vRisc5CPU_tb_v
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 :oCMzGnGIbH46oHY8@PoU0
+I@C:FV<:El99aIljXQadR21
+R1
+w1731245814
+8D:/File_ZJU/CompStr/lab30_Risc5CPU/src/Risc5CPU_tb.v
+FD:/File_ZJU/CompStr/lab30_Risc5CPU/src/Risc5CPU_tb.v
+L0 2
+R6
+!s108 1731245823.520000
+!s107 D:/File_ZJU/CompStr/lab30_Risc5CPU/src/Risc5CPU_tb.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/File_ZJU/CompStr/lab30_Risc5CPU/src/Risc5CPU_tb.v|
+!i113 0
+R10
+n@risc5@c@p@u_tb_v

@@ -1,0 +1,17 @@
+Vivado Simulator v2023.1
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+Copyright 2022-2023 Advanced Micro Devices, Inc. All Rights Reserved.
+Running: C:/Xilinx/Vivado/2023.1/bin/unwrapped/win64.o/xelab.exe --incr --debug typical --relax --mt 2 -L xil_defaultlib -L blk_mem_gen_v8_4_6 -L unisims_ver -L unimacro_ver -L secureip -L xpm --snapshot Risc5CPU_tb_v_behav xil_defaultlib.Risc5CPU_tb_v xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Pass Through NonSizing Optimizer
+WARNING: [VRFC 10-3091] actual bit length 32 differs from formal bit length 1 for port 'Ci' [D:/File_ZJU/CompStr/lab30_Risc5CPU/src/IF.v:39]
+WARNING: [VRFC 10-3091] actual bit length 4 differs from formal bit length 32 for port 'ALUCode' [D:/File_ZJU/CompStr/lab30_Risc5CPU/src/ID.v:58]
+WARNING: [VRFC 10-3091] actual bit length 32 differs from formal bit length 1 for port 'Ci' [D:/File_ZJU/CompStr/lab30_Risc5CPU/src/BranchTest.v:19]
+WARNING: [VRFC 10-3091] actual bit length 32 differs from formal bit length 1 for port 'Ci' [D:/File_ZJU/CompStr/lab30_Risc5CPU/src/ID.v:80]
+WARNING: [VRFC 10-3091] actual bit length 32 differs from formal bit length 1 for port 'Ci' [D:/File_ZJU/CompStr/lab30_Risc5CPU/src/ALU.v:45]
+WARNING: [VRFC 10-3091] actual bit length 32 differs from formal bit length 1 for port 'C_in' [D:/File_ZJU/CompStr/lab30_Risc5CPU/src/adder_32bits.v:48]
+WARNING: [VRFC 10-3091] actual bit length 32 differs from formal bit length 1 for port 'C_in' [D:/File_ZJU/CompStr/lab30_Risc5CPU/src/adder_32bits.v:49]
+WARNING: [VRFC 10-3027] 'ALUCode' was previously declared with a different range [D:/File_ZJU/CompStr/lab30_Risc5CPU/src/Decode.v:97]
+Completed static elaboration
+INFO: [XSIM 43-4323] No Change in HDL. Linking previously generated obj files to create kernel

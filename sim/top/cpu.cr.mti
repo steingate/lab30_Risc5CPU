@@ -1,0 +1,128 @@
+D:/File_ZJU/CompStr/lab30_Risc5CPU/src/HazardDetector.v {1 {vlog -work work -vopt -stats=none D:/File_ZJU/CompStr/lab30_Risc5CPU/src/HazardDetector.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module HazardDetector
+
+Top level modules:
+	HazardDetector
+
+} {} {}} D:/File_ZJU/CompStr/lab30_Risc5CPU/src/adder_4bits.v {1 {vlog -work work -vopt -stats=none D:/File_ZJU/CompStr/lab30_Risc5CPU/src/adder_4bits.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module adder_4bits
+
+Top level modules:
+	adder_4bits
+
+} {} {}} D:/File_ZJU/CompStr/lab30_Risc5CPU/src/EX.v {1 {vlog -work work -vopt -stats=none D:/File_ZJU/CompStr/lab30_Risc5CPU/src/EX.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module EX
+
+Top level modules:
+	EX
+
+} {} {}} D:/File_ZJU/CompStr/lab30_Risc5CPU/src/ID.v {1 {vlog -work work -vopt -stats=none D:/File_ZJU/CompStr/lab30_Risc5CPU/src/ID.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module ID
+
+Top level modules:
+	ID
+
+} {} {}} D:/File_ZJU/CompStr/lab30_Risc5CPU/src/adder_32bits.v {1 {vlog -work work -vopt -stats=none D:/File_ZJU/CompStr/lab30_Risc5CPU/src/adder_32bits.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module adder_32bits
+-- Compiling module conditional_adder_4bits
+
+Top level modules:
+	adder_32bits
+
+} {} {}} D:/File_ZJU/CompStr/lab30_Risc5CPU/src/BranchTest.v {1 {vlog -work work -vopt -stats=none D:/File_ZJU/CompStr/lab30_Risc5CPU/src/BranchTest.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module BranchTest
+
+Top level modules:
+	BranchTest
+
+} {} {}} D:/File_ZJU/CompStr/lab30_Risc5CPU/src/IF.v {1 {vlog -work work -vopt -stats=none D:/File_ZJU/CompStr/lab30_Risc5CPU/src/IF.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module IF1
+
+Top level modules:
+	IF1
+
+} {} {}} D:/File_ZJU/CompStr/lab30_Risc5CPU/src/Registers.v {1 {vlog -work work -vopt -stats=none D:/File_ZJU/CompStr/lab30_Risc5CPU/src/Registers.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module Registers
+
+Top level modules:
+	Registers
+
+} {} {}} D:/File_ZJU/CompStr/lab30_Risc5CPU/src/InstructionROM.v {1 {vlog -work work -vopt -stats=none D:/File_ZJU/CompStr/lab30_Risc5CPU/src/InstructionROM.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module InstructionROM
+
+Top level modules:
+	InstructionROM
+
+} {} {}} D:/File_ZJU/CompStr/lab30_Risc5CPU/src/Decode.v {1 {vlog -work work -vopt -stats=none D:/File_ZJU/CompStr/lab30_Risc5CPU/src/Decode.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module Decode
+
+Top level modules:
+	Decode
+
+} {} {}} D:/File_ZJU/CompStr/lab30_Risc5CPU/src/Risc5CPU.v {1 {vlog -work work -vopt -stats=none D:/File_ZJU/CompStr/lab30_Risc5CPU/src/Risc5CPU.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module Risc5CPU
+
+Top level modules:
+	Risc5CPU
+
+} {} {}} D:/File_ZJU/CompStr/lab30_Risc5CPU/src/MEM_WB.v {1 {vlog -work work -vopt -stats=none D:/File_ZJU/CompStr/lab30_Risc5CPU/src/MEM_WB.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module MEM_WB
+
+Top level modules:
+	MEM_WB
+
+} {} {}} D:/File_ZJU/CompStr/lab30_Risc5CPU/src/ID_EX.v {1 {vlog -work work -vopt -stats=none D:/File_ZJU/CompStr/lab30_Risc5CPU/src/ID_EX.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module ID_EX
+
+Top level modules:
+	ID_EX
+
+} {} {}} D:/File_ZJU/CompStr/lab30_Risc5CPU/src/ALU.v {1 {vlog -work work -vopt -stats=none D:/File_ZJU/CompStr/lab30_Risc5CPU/src/ALU.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module ALU
+
+Top level modules:
+	ALU
+
+} {} {}} D:/File_ZJU/CompStr/lab30_Risc5CPU/src/DataRAM.v {1 {vlog -work work -vopt -stats=none D:/File_ZJU/CompStr/lab30_Risc5CPU/src/DataRAM.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module DataRAM
+
+Top level modules:
+	DataRAM
+
+} {} {}} D:/File_ZJU/CompStr/lab30_Risc5CPU/src/Risc5CPU_tb.v {1 {vlog -work work -vopt -stats=none D:/File_ZJU/CompStr/lab30_Risc5CPU/src/Risc5CPU_tb.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module Risc5CPU_tb_v
+
+Top level modules:
+	Risc5CPU_tb_v
+
+} {} {}} D:/File_ZJU/CompStr/lab30_Risc5CPU/src/IF_ID.v {1 {vlog -work work -vopt -stats=none D:/File_ZJU/CompStr/lab30_Risc5CPU/src/IF_ID.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module IF_ID
+
+Top level modules:
+	IF_ID
+
+} {} {}} D:/File_ZJU/CompStr/lab30_Risc5CPU/src/EX_MEM.v {1 {vlog -work work -vopt -stats=none D:/File_ZJU/CompStr/lab30_Risc5CPU/src/EX_MEM.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module EX_MEM
+
+Top level modules:
+	EX_MEM
+
+} {} {}}

@@ -1,0 +1,27 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../lab30.gen/sources_1/ip/blk_mem_gen_0/sim/blk_mem_gen_0.v" \
+"../../../../../src/ALU.v" \
+"../../../../../src/BranchTest.v" \
+"../../../../../src/DataRAM.v" \
+"../../../../../src/Decode.v" \
+"../../../../../src/EX.v" \
+"../../../../../src/EX_MEM.v" \
+"../../../../../src/HazardDetector.v" \
+"../../../../../src/ID.v" \
+"../../../../../src/ID_EX.v" \
+"../../../../../src/IF.v" \
+"../../../../../src/IF_ID.v" \
+"../../../../../src/InstructionROM.v" \
+"../../../../../src/MEM_WB.v" \
+"../../../../../src/Registers.v" \
+"../../../../../src/Risc5CPU.v" \
+"../../../../../src/adder_32bits.v" \
+"../../../../../src/adder_4bits.v" \
+"../../../../../src/Risc5CPU_tb.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

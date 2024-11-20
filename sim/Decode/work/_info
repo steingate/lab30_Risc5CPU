@@ -1,0 +1,50 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/File_ZJU/CompStr/Lab8/sim
+vDecode
+Z0 VDg1SIo80bB@j0V0VzS_@n1
+r1
+!s85 0
+31
+!i10b 1
+!s100 7Nn6BJ>:A6Y?;=4R;D@S@3
+IVNNO99G:J6ZYdof2L96cV0
+Z1 dD:/File_ZJU/CompStr/lab30_Risc5CPU/sim/Decode
+w1729471830
+8D:\File_ZJU\CompStr\lab30_Risc5CPU\src\Decode.v
+FD:\File_ZJU\CompStr\lab30_Risc5CPU\src\Decode.v
+L0 6
+Z2 OL;L;10.4;61
+!s108 1729471836.032000
+!s107 D:\File_ZJU\CompStr\lab30_Risc5CPU\src\Decode.v|
+!s90 -reportprogress|300|-work|work|-source|-vopt|-stats=none|D:\File_ZJU\CompStr\lab30_Risc5CPU\src\Decode.v|
+!i113 0
+o-work work -source -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+n@decode
+vDecode_tb
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 N;hD__JI`LaklEXhWCo>01
+I2I7lk?6K9PG8NVKM>0n3_1
+R1
+w1695776680
+8D:/File_ZJU/CompStr/lab30_Risc5CPU/src/Decode_tb.v
+FD:/File_ZJU/CompStr/lab30_Risc5CPU/src/Decode_tb.v
+L0 6
+R2
+!s108 1729471592.245000
+!s107 D:/File_ZJU/CompStr/lab30_Risc5CPU/src/Decode_tb.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/File_ZJU/CompStr/lab30_Risc5CPU/src/Decode_tb.v|
+!i113 0
+o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+n@decode_tb
